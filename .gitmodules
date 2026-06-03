@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/YAPP-Github/28th-Web-Team-2-BE.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/YAPP-Github/28th-Web-Team-2-FE.git
